@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<div align="center">
+<div align="center width="150 height="150" style="border-radius: 50%">
   <img src="./cat.gif" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Cat GIF"/>
 </div>
 
