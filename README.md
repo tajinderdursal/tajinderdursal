@@ -36,12 +36,12 @@
 
 ##  About Me
 
-- 🔭 Currently working on full-stack development projects.
-- 🌱 Learning Data Structures & Algorithms, AI and Machine Learning.
-- 💻 Experienced in building applications using React, Next.js, Node.js and MongoDB.
-- 🧠 Practising problem-solving using C++.
-- 🤖 Interested in AI-powered applications and software engineering.
-- 🚀 Always curious to learn, build and improve.
+-  Currently working on full-stack development projects.
+-  Learning Data Structures & Algorithms, AI and Machine Learning.
+-  Experienced in building applications using React, Next.js, Node.js and MongoDB.
+-  Practising problem-solving using C++.
+-  Interested in AI-powered applications and software engineering.
+-  Always curious to learn, build and improve.
 
 ---
 
