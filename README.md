@@ -1,7 +1,13 @@
 
 <div align="center">
 
-<div align="center">
+<div style="
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: #38BDF8;
+  margin: auto;
+">
   <div style="
     width: 160px;
     height: 160px;
