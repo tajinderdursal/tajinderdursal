@@ -1,7 +1,9 @@
 
 <div align="center">
 
-  <img src="./cat.gif" width="150" height="150" alt="Animated cat avatar" style="border-radius: 50%; object-fit: cover;" />
+<div align="center">
+  <img src="./cat.gif" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Cat GIF"/>
+</div>
 
   <h1>Hi, I'm Tajinder Singh 👋</h1>
 
@@ -15,7 +17,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 - 🔭 Currently working on full-stack development projects.
 - 🌱 Learning Data Structures & Algorithms, AI and Machine Learning.
@@ -26,7 +28,7 @@
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 <div align="center">
 
@@ -38,7 +40,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -79,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -95,7 +97,7 @@
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *Building. Learning. Improving. One commit at a time.*
 
