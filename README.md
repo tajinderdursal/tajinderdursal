@@ -1,8 +1,25 @@
 
 <div align="center">
 
-<div align="center width="150 height="150" style="border-radius: 50%">
-  <img src="./cat.gif" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Cat GIF"/>
+<div align="center">
+  <div style="
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid #38BDF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <img
+      src="./cat.gif"
+      width="160"
+      height="160"
+      style="object-fit: cover;"
+      alt="Cat GIF"
+    />
+  </div>
 </div>
 
   <h1>Hi, I'm Tajinder Singh 👋</h1>
